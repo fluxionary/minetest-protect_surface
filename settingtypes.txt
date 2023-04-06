@@ -1,0 +1,2 @@
+protect_surface:min_y () int -32
+protect_surface:max_y () int 512

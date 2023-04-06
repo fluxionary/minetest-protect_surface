@@ -1,0 +1,11 @@
+{
+    "type": "MOD",
+    "name": "protect_surface",
+    "title": "protect_surface",
+    "license": "AGPL-3.0-or-later",
+    "media_license": "CC-BY-SA-4.0",
+    "repo": "https://github.com/fluxionary/minetest-protect_surface.git",
+    "website": "https://github.com/fluxionary/minetest-protect_surface",
+    "issue_tracker": "https://github.com/fluxionary/minetest-protect_surface/issues",
+    "short_description": "prevents players from modifying the surface unless they have somehow protected the area."
+}
